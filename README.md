@@ -55,7 +55,7 @@ providing cutting edge hardware support to deliver a set-top box experience.
 
 **Notes**
 
-* SSH login details are user: “root” password: “openelec”.
+* SSH login details are user: “root” password: “openpht”.
   SSH allows command line access to your openelec.tv machine for configuration
   and file transfer. Linux/Mac clients can natively use SSH, while Windows
   users might want to try PuTTY for their terminal access.
