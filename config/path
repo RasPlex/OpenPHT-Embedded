@@ -239,6 +239,8 @@ BUILD_INDENT_SIZE=4
   boldwhite="\e[1;37m"
   endcolor="\e[0m"
 
+unset LD_LIBRARY_PATH
+
 # multilib? nah
 unset CONFIG_SITE
 
